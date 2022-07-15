@@ -1,0 +1,16 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "9",
+        "mockery/mockery": "^1.4",
+        "brain/monkey": "2.*"
+    },
+    "require": {
+        "antecedent/patchwork": "^2.1",
+        "wp-coding-standards/wpcs": "^2.3",
+        "djunehor/word-to-number": "^1.0"
+    },
+    "autoload": {
+        "classmap": ["inc"]
+    }
+
+}
